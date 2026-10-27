@@ -1,0 +1,17 @@
+/* Generated from src/tokens.json by scripts/build.mjs. Edit the JSON, not this file. */
+:root {
+  --night: #03110C; /* Darb night: base surface */
+  --forest: #0E3527; /* Darb forest: raised surfaces, the ground of the map */
+  --gold: #D9A54C; /* Darb gold: healthy roads, services, the gathered light */
+  --gold-light: #FBE7BD; /* A request in flight; the core of the gathered sphere */
+  --gold-deep: #6D4C17; /* Gold in shadow */
+  --amber: #F08A2C; /* A slow road: latency over its objective */
+  --seal: #C8432F; /* A broken road: errors over budget, a chaos drill running */
+  --sky: #7FB3C8; /* Rim light and atmosphere */
+  --ivory: #FBF7EC; /* Text on night */
+  --ink: #0B2219; /* Text on ivory */
+  --muted: #8FA399; /* Secondary text on night */
+  --font-seal: 'Yuji Boku', 'Hiragino Mincho ProN', serif;
+  --font-display: 'Zen Antique', 'Hiragino Mincho ProN', serif;
+  --font-ui: 'Geist', system-ui, sans-serif;
+}
